@@ -7,5 +7,5 @@ Implementation of knowledge-based AI to play minesweeper. Assignment for CS50's 
 3. By clicking ```AI Move``` observe consecutive steps taken based on the knowledge base.
 4. When a move is done at random (not enough knowledge collected) it will be printed in terminal.
 
-### Screenshot of a running app with 2 safe and 1 random moves made:
+### Screenshot of an app running with 2 safe and 1 random moves made:
 ![App window](/Screenshots/minesweeper_1.PNG)
